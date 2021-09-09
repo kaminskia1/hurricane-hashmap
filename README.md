@@ -9,7 +9,8 @@
     directory) or load in names manually. Names will then be pushed to an active instance of the hashmap's implementation,
     and families will subsequently be automatically grouped.
 
-## Import Syntax    
+## Import Syntax
+  - Create a file named `names.txt` in `/hurricane`, and populate with data following the undermentioned syntax
 ```
 <lastname> <firstname>
 Doe John
